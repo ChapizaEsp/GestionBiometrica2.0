@@ -10,11 +10,17 @@
 
   <ItemGroup>
     <PackageReference Include="ConcurrentObservableCollections" Version="1.1.9" />
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.SqlServer.Server" Version="1.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="System.Collections" Version="4.3.0" />
     <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+=======
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
+>>>>>>> 2fb80d8af1c1f9a4b2b9effa231e826ba4f80362
     <PackageReference Include="System.Threading" Version="4.3.0" />
   </ItemGroup>
 
