@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|c:\\users\\hp\\source\\repos\\gestionbiometrica2.0\\proyecto huella\\prueba_ethernet\\pruebaethernet\\pruebaethernet\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\sockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\sockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\cajafuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F6466-18D9-4320-8CF8-3636FDF89BDC}|pruebaethernet\\pruebaethernet.csproj|solutionrelative:pruebaethernet\\cajafuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Logs.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\Logs.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Logs.cs",
+              "RelativeToolTip": "pruebaethernet\\Logs.cs",
+              "ViewState": "AQIAAD0BAAAAAAAAAADwvw4BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:37:06.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Form1.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\Form1.cs",
+              "ToolTip": "F:\\copia memoria\\Nueva carpeta\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:02:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Logs.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\Logs.cs",
+              "ToolTip": "F:\\copia memoria\\Nueva carpeta\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Logs.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:37:01.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\SocketHandler.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\SocketHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\SocketHandler.cs",
+              "RelativeToolTip": "pruebaethernet\\SocketHandler.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAIAwwFwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:47:11.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Form1.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Form1.cs",
+              "RelativeToolTip": "pruebaethernet\\Form1.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAAApwFUBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:03:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CajaFuerte.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\CajaFuerte.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\CajaFuerte.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\CajaFuerte.cs",
+              "RelativeToolTip": "pruebaethernet\\CajaFuerte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:17:31.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Context.cs",
+              "RelativeDocumentMoniker": "pruebaethernet\\Context.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\REPOS\\GestionBiometrica2.0\\Proyecto Huella\\prueba_Ethernet\\pruebaethernet\\pruebaethernet\\Context.cs",
+              "RelativeToolTip": "pruebaethernet\\Context.cs",
+              "ViewState": "AQIAAAoAAAAAODMzMzMLwBEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:43:04.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
